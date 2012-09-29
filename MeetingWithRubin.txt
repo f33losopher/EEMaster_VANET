@@ -23,6 +23,7 @@ Find Papers
 Send papers to Rubin
 Coding?
 
+TOPIC: VANET
 Requirement: Every Friday in quarter
   Send cumalitive power point and word doc
   Keeps going till week 8
