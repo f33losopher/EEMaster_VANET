@@ -1,4 +1,4 @@
-04146951 - Vehicular Mobility Simulation for VANETs
+04127230 - Vehicular Mobility Simulation for VANETs
    Conference - Simulation Symposium, 2007. ANSS '07. 40th Annual 
    
 04215805 - Connectivity-Aware Routing (CAR) in Vehicular Ad Hoc Networks
@@ -8,3 +8,12 @@
 
 04289325 - An Improved Vehicular Ad Hoc Routing Protocol for City Environments
    Conference - Communications, 2007. ICC '07. IEEE International Conference on
+
+==========================================================================
+Ranking: 3 papers to rank
+   1 is best, 3 is worse to use for project
+
+04289325 - 1 Graphs, math, good diagrams as well.
+04127230 - 2 Different topology graphs, some math looks like basic calc.
+   Got some data graphs, actually some pretty good diagrams.
+04215805 - 3 Got some pseudo code. Some bar graphs, don't see math analysis.

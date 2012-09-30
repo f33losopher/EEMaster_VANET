@@ -1,3 +1,23 @@
 04146951 - VADD: Vehicle-Assisted Data Delivery in Vehicular Ad Hoc Networks
    Journal - IEEE Transactions on Vehicular Technology
    Volume: 57, Issue: 3
+   Publication Year: 2008
+
+==========================================================================
+Ranking: 8 papers to rank
+   1 is best, 8 is worse to use for project
+
+04346442 - 1 Good math analysis as well as diagrams and models
+04581649 - 2 Good math analysis. Some queuing theory, and stuff used from
+   either EE132B or EE232B
+05678778 - 3 Good math, seems more simple to understand. Used stochastic
+   processes. Pseudo code for their algorithms.
+04346445 - 4 Location-Aware Services (Weather, road hazzards...). Good
+   graphs. Propose some scenarios.
+04346444 - 5 Security of VANETs. Proposed Scheme AMOEBA. Detailed 
+   math equations. Graphs and diagrams. Seems complex.
+04146951 - 6
+04357358 - 7 Not much interesting to me
+04450627 - 8 No math at all
+
+
