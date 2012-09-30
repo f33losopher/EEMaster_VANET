@@ -1,0 +1,3 @@
+04146951 - VADD: Vehicle-Assisted Data Delivery in Vehicular Ad Hoc Networks
+   Journal - IEEE Transactions on Vehicular Technology
+   Volume: 57, Issue: 3

@@ -1,0 +1,10 @@
+04146951 - Vehicular Mobility Simulation for VANETs
+   Conference - Simulation Symposium, 2007. ANSS '07. 40th Annual 
+   
+04215805 - Connectivity-Aware Routing (CAR) in Vehicular Ad Hoc Networks
+   Conference - INFOCOM 2007. 26th IEEE International Conference on Computer 
+                Communications. IEEE 
+   Publication  Year: 2007
+
+04289325 - An Improved Vehicular Ad Hoc Routing Protocol for City Environments
+   Conference - Communications, 2007. ICC '07. IEEE International Conference on
